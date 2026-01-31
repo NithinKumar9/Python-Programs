@@ -1,2 +1,4 @@
 # Python-Programs
-Programs from leetcode and hackerrank...
+Simple Programs of Python 
+# 1. Two sum
+# 2. Youtube video Downloader
