@@ -20,3 +20,17 @@ print(reverse(string))
 
 # OUTPUT
 # olleH321
+
+
+
+
+#! USING SLICING METHOD
+
+def str_reverse(string):
+
+    return string[::-1]
+
+print(str_reverse(string))
+
+# Output
+# olleH321
